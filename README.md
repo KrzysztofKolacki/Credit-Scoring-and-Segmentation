@@ -1,4 +1,4 @@
-# Credit-Scoring-and-Segmentation
+# Credit-Scoring-and-Segmentation Harnessing Python for Credit Scoring & Risk Segmentation
 Credit Scoring and Segmentation using Python
 
 Creditworthiness evaluation is a linchpin in the financial sector, enabling institutions to gauge the risk associated with borrowers. This assessment, coupled with segmentation based on credit profiles, ensures informed decision-making, optimizing lending strategies, and minimizing defaults. Delve into this project to master the nuances of credit scoring and customer segmentation using Python.
